@@ -6,9 +6,9 @@ int numA = Convert.ToInt32 (Console.ReadLine());
 
 if (numA % 2 == 0)
 {
-    Console.Write ("Число является четным");
+    Console.Write ( "Число является четным");
 }
 else
 {
-    Console.Write ("Число не является четным");
+    Console.Write ( "Число не является четным");
 }
